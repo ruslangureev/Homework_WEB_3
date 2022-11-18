@@ -1,0 +1,20 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    color: blue;
+    font-family: 'Lobster-Regular';
+}
+h2 {
+    color: red;
+    font-family: 'RubikDistressed-Regular';
+}
+
+@font-face {
+    font-family: 'Lobster-Regular';
+    src: url('Lobster-Regular.ttf');
+}
+@font-face {
+    font-family: 'RubikDistressed-Regular';
+    src: url(RubikDistressed-Regular.ttf);
+}
